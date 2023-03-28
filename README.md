@@ -4,6 +4,8 @@ Python script to find similar voices with a sample voice.
 # Prerequisites
 - [Speechbrain](https://github.com/speechbrain/speechbrain)
 
+The script was tested with python 3.10.10.
+
 # How to use
 ```txt
 usage: voice-mining.py [-h] -s SAMPLE -l LOOKUP -o OUTPUT
